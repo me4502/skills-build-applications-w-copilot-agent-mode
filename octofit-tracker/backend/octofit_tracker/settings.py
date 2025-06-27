@@ -130,4 +130,4 @@ STATIC_URL = "static/"
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 CORS_ALLOW_ALL_ORIGINS = True
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["*", "congenial-spoon-rv5rx6g6xfr9g-8000.app.github.dev", "localhost"]
